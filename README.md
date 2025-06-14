@@ -48,7 +48,7 @@ CommunityForged is built to support creators, server admins, and dev teams with 
 - 🎮 **Minecraft Modder**: Import your modpack from CurseForge and mirror it to Modrinth and GIA Listings without ever touching another upload form.
 - 🛠️ **Plugin Developer**: Publish Spigot or Velocity plugins from GitHub and manage release notes across multiple channels — all in one place.
 - 🧵 **Creator Network**: Centralize your YouTube, Twitch, Discord, and Spotify presence to sync branding, content updates, and announcements.
-- 🧑‍🤝‍🧑 **Community Leader**: Migrate entire Discord or Guilded servers to ChitterHaven, keeping channels, roles, and bots intact — no rebuild needed. you can also allow us to offer your members a link to your Haven.
+- 🧑‍🤝‍🧑 **Community Leader**: Migrate entire Discord or Guilded servers to ChitterHaven, keeping channels, roles, and bots intact — no rebuild needed. You can also allow us to offer your members a link to your Haven.
 - 📚 **Publishing Group**: Claim listings from different contributors, then manage them from the **CommunityForged dashboard** under one unified control panel.
 - 🚀 **ChitterSync Ecosystem Power User**: Use CommunityForged as the bridge to Gia, Velosync, PreCorded bots, and more — all managed through the same sleek dashboard.
 
@@ -120,4 +120,4 @@ CommunityForged is actively developed by the ChitterSync core team and community
 ## © License
 
 CommunityForged is © under ChitterSync Studios LLC registered 2025.  
-Distributed under the **ChitterSync GHOS License v1**.
+Distributed under the [**ChitterSync GHOS License v1**](https://github.com/r7105/License/blob/main/ChitterSync%20GHOS/v1.0.md).
